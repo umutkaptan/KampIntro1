@@ -23,12 +23,13 @@ namespace OOP1
             productmanager.Add(product1);
             Console.WriteLine(product1.ProductName);
 
-            //void kısmı
-            productmanager.Topla2(3,6);
 
-            //return kısmı
-            int toplamasonucu = productmanager.Topla(3, 6);
-            Console.WriteLine(toplamasonucu*2);
+            ////void kısmı
+            //productmanager.Topla2(3,6);
+
+            ////return kısmı
+            //int toplamasonucu = productmanager.Topla(3, 6);
+            //Console.WriteLine(toplamasonucu*2);
 
         }
     }
