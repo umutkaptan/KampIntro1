@@ -24,10 +24,10 @@ namespace OOP1
             Console.WriteLine(product1.ProductName);
 
 
-            ////void kısmı
+            //void kısmı
             //productmanager.Topla2(3,6);
 
-            ////return kısmı
+            //return kısmı
             //int toplamasonucu = productmanager.Topla(3, 6);
             //Console.WriteLine(toplamasonucu*2);
 
