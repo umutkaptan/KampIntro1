@@ -12,12 +12,14 @@ namespace OOP2
         {
             //Engin Demiroğ
             GercekMusteri musteri1 = new GercekMusteri();
-            
+
             musteri1.Id = 1;
             musteri1.MusteriNo = "12345";
             musteri1.Adi = "Engin";
             musteri1.Soyadi = "Demiroğ";
             musteri1.TcNo = "2174824";
+            
+            
 
 
             //Kodlama.io

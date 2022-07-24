@@ -23,6 +23,10 @@ namespace OOP1
             productmanager.Add(product1);
             Console.WriteLine(product1.ProductName);
 
+            
+            
+            //ProductManager caner = new ProductManager();
+
 
             //void kısmı
             //productmanager.Topla2(3,6);
